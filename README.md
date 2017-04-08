@@ -33,7 +33,7 @@ The test set should be used to see how well your model performs on unseen data. 
 
 **age**: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
 
-**sibsp**: The dataset defines family relations in this way...
+**sibsp**: The dataset defines family relations in this way.
 Sibling = brother, sister, stepbrother, stepsister
 Spouse = husband, wife (mistresses and fiancés were ignored)
 
