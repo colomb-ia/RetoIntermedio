@@ -72,7 +72,7 @@ https://github.com/colomb-ia/supervised-intermedio-titanic.git
 
 ## Starter code in R
 
-```{r ,echo = TRUE}
+```bash
 # Loading Packages
 require(data.table)
 
@@ -83,3 +83,8 @@ testData <- fread("test.csv",sep = ",")
 trainData <- fread("train.csv",sep = ",")
 ```
 
+
+# Solutions
+| Score | Usuario |	Algoritmo | Link Repo |
+| - | - | - | - |
+| *score* | *nombre* | *algoritmo* | *link* |
