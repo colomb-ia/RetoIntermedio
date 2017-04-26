@@ -73,13 +73,13 @@ https://github.com/colomb-ia/supervised-intermedio-titanic.git
 ## Starter code in R
 
 ```{r }
-
-require(randomForest)
+# Loading Packages
 require(data.table)
 
-###################################
-
+# Reading Test Data
 testData <- fread("test.csv",sep = ",")
+
+# Reading train Data
 trainData <- fread("train.csv",sep = ",")
 ```
 
