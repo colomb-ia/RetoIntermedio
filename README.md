@@ -72,7 +72,7 @@ https://github.com/colomb-ia/supervised-intermedio-titanic.git
 
 ## Starter code in R
 
-```{r }
+```{r ,echo = TRUE}
 # Loading Packages
 require(data.table)
 
