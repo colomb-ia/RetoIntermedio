@@ -82,9 +82,3 @@ testData <- fread("test.csv",sep = ",")
 # Reading train Data
 trainData <- fread("train.csv",sep = ",")
 ```
-
-
-# Solutions
-| Score | Usuario |	Algoritmo | Link Repo |
-| - | - | - | - |
-| *score* | *nombre* | *algoritmo* | *link* |
