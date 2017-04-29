@@ -1,4 +1,6 @@
 # Ranking
 | Score | Usuario |	Algoritmo | Link Repo |
 | - | - | - | - |
-| *score* | *nombre* | *algoritmo* | *link* |
+| *score* | [UsuarioRepo](linkRepo) | *algoritmo* | [repo](linkRepoProyectoSolucion) |
+
+
